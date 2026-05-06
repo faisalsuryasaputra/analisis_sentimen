@@ -33,6 +33,7 @@ The Deep Learning model developed in this project successfully categorizes revie
 ├── requirements.txt                   # List of library dependencies to run the project
 └── README.md                          # Project documentation
 
+```
 🚀 How to Run Locally
 Clone this repository
 
